@@ -3,7 +3,6 @@
 //  ForwardDataPassing
 //
 //  Created by Mac on 12/12/24.
-//
 
 import UIKit
 
